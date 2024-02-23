@@ -1,0 +1,1055 @@
+nwaulune@gmail.com 1
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+austinigbe@gmail.com 2
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+oluwadara.oluwalana@gmail.com 3
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ualiyu@ncc.gov.ng 4
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+joelola@gmail.com 5
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+duhu99@gmail.com 6
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+emi1emi@yahoo.com 7
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+onimisi.baiye@gmail.com 8
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+esomu1@gmail.com 9
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ch_nwaiwu@yahoo.com 10
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+deensanitj@yahoo.com 11
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+atukur@ncc.gov.ng 12
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+bezaleelsoft@gmail.com 13
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+chijiokeokigbo@gmail.com 14
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+nurafalalu@gmail.com 15
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+info2etefia@gmail.com 16
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+aoadebisi@gmail.com 17
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+jonasemechebe@gmail.com 18
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+abigaileadejo@gmail.com 19
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+chimezd@gmail.com 20
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+odehisaacochim@yahoo.com 21
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+atikulawal@yahoo.com 22
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+omonasko@gmail.com 23
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+rufesfaith@yahoo.com 24
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+wayas1964@gmail.com 25
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+bello.remawa@gmail.com 26
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ekpenyongeyo@yahoo.com 27
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+muritala.aliu@vdtcomms.com 28
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+atnaduuk@yahoo.co.uk 29
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+arazimsheu@gmail.com 30
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+seyeayobee2013@gmail.com 31
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+shobotech@gmail.com 32
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+anthoniaohagwa@gmail.com 33
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+adigaasuenie@gmail.com 34
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+wampanajnr@yahoo.com 35
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+jamiescrown@yahoo.com 36
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ofsyn@yahoo.com 37
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+oguguanwobi@gmail.com 38
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+king@ncc.gov.ng 39
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+talk2herjjue@gmail.com 40
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+jattoabdulgafar@gmail.com 41
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+chinwe.vivian.ononiwu@gmail.com 42
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+olorundarek@gmail.com 43
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+edwardrotimi@gmail.com 44
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+josepharchibong@gmail.com 45
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+umarsani@gmail.com 46
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+dejidrwho@yahoo.com 47
+{"errors":[{"message":"Invalid user payment or membership type.","locations":[{"line":3,"column":11}],"path":["migrateData"]}],"data":{"migrateData":null}}
+
+
+obioraoffor@yahoo.com 48
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+maiwadaabdulaziz@yahoo.com 49
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+vincent.jaja@gmail.com 50
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+chukwudebe.gloria@gmail.com 51
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+bensonadeola@gmail.com 52
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sanusi@ncc.gov.ng 53
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+linlona@yahoo.com 54
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+linlona@gmail.com 55
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ugdanbat@yahoo.com 56
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ece90174@gmail.com 57
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+kaysplace4eva@yahoo.com 58
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+yabdulkadir@ncc.gov.ng 59
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+iogochukwu@debbiemishael.com 60
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+felixbishop2011@gmail.com 61
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+onwubuya.joe@gmail.com 62
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mahmudribadu@gmail.com 63
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+bwakil@yahoo.com 64
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+email@email.com 65
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+yanmaulucity@hotmail.com 66
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ayspeedlink@yahoo.com 67
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+balkaliee@yahoo.com 68
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+benjytim@gmail.com 69
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+seunsamuel.akintola@gmail.com 70
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+zaksbnadam@gmail.com 71
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mamedu7@gmail.com 72
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+skippervalentine73@gmail.com 73
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ibrahimitopa@gmail.com 74
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+yeshuabala@gmail.com 75
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+alabiikeolu@gmail.com 76
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+duruac64@gmail.com 77
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mubarakly@gmail.com 78
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+chinenye.mercy@gmail.com 79
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+yusufali2020gangara@gmail.com 80
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+nuramodu01@gmail.com 81
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+fidelisonah@yahoo.com 82
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+exspringwater@gmail.com 83
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sirtukur@gmail.com 84
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ieeukpe@gmail.com 85
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+duru.juliet@abiastateuniversity.edu.ng 86
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+aosunwa@gmail.com 87
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+apooghuma@gmail.com 88
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+femifalola200@gmail.com 89
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ajiya@buk.edu.ng 90
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+netlikora@gmail.com 91
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+Sulemanidris35@gmail.com 92
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+joeudoh3@gmail.com 93
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+okeywilliams70@gmail.com 94
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+caedebeatu@gmail.com 95
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+etteyen@gmail.com 96
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+emeka@cyberproofsolutions.com 97
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+usmanaliyu29@gmail.com 98
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+maduguemir@gmail.com 99
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+bgdigima@yahoo.com 100
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+obumikechebelu@gmail.com 101
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+adamusaidumanawachi@gmail.com 102
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+fnwaulune@gmail.com 103
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+patrick.oghuma@defence.gov.ng 104
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+saeedbaballe@gmail.com 105
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+kenuzoekwe@gmail.com 106
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+yhaeadd@yahoo.com 107
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+tomiodunlami@gmail.com 108
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+nginichuma@gmail.com 109
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+punwogu@yahoo.com 110
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+shegun21@gmail.com 111
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ibrahimmumar40@gmail.com 112
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+esdibrahim@yahoo.com 113
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+okeycomputech@yahoo.com 114
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+gskok@outlook.com 115
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+bamideleode@gmail.com 116
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+amzatshakiru@gmail.com 117
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+offorsmith@gmail.com 118
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+p.samexclusive@gmail.com 119
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sabituimamr@kustwudil.edu.ng 120
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+inakeemcclurtedcoll@gmail.com 121
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+iniobongdeokon@gmail.com 122
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+adiokabiru26@gmail.com 123
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mgbawa@abg.com.ng 124
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mgbawa@abgcom.net 125
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+osundeamenze@gmail.com 126
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+Yaxeedo@gmail.com 127
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+omarmisau@gmail.com 128
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+unimkefadie0418@gmail.com 129
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+abbeylinkon2003@yahoo.com 130
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+abiodun.kazeem0101@gmail.com 131
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+olufemi.adeyemi@lfcww.org 132
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+oche@gulftelnet.com 133
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+odeyodo@yahoo.com 134
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+basietuk@gmail.com 135
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+priest@gulftelnet.com 136
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+yusufscape@yahoo.com 137
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+cmdpriest@gmail.com 138
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+shelley-nevile40@tvonlayn2.ru 139
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+enubinuak@gmail.com 140
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+essienuduak33@yahoo.com 141
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+kwaha77@gmail.com 142
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+florencia-grieve@kinoteatrtv.online 143
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+emmanueleleme@gmail.com 144
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sayyadisani12@gmail.com 145
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+selinawojcik2912@1secmail.org 146
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+waleogunsola@gmail.com 147
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+wabtao@gmail.com 148
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mail2@maill3.xyz 149
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mail11@maill2.xyz 150
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ismailgumbi@yahoo.com 151
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sunnynobility@gmail.com 152
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+margheritamena@1secmail.org 153
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+janibilowo@gmail.com 154
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+danrabinigerialimited1@gmail.com 155
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+manny@innocent.com 156
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+marufbyte@gmail.com 157
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+anifowoseoladapopeter@gmail.com 158
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+olumayor2@gmail.com 159
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+clrmuhammad@gmail.com 160
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+lesliestoltz@1secmail.org 161
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+laylaava@quelbroker.com 162
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+rotimi.w.olubeko@exxonmobil.com 163
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+omobaloo1@gmail.com 164
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+gbadegesinlanre@yahoo.com 165
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+femisoneye10@gmail.com 166
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+jabualamin@gmail.com 167
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+paragon.etuog@yahoo.com 168
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+uausofteng@gmail.com 169
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+dpoma2001@yahoo.com 170
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+carissarigoberto@quelbroker.com 171
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+Suleimanmuhdjamilu@gmail.com 172
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+omodolapovictorb@gmail.com 173
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+yilomoc162@v3dev.com 174
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+estherolob1@gmail.com 175
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+estherolobs1@gmail.com 176
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+alinevelma@econgate.com 177
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+grantadalberto@dasemana.com 178
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+najibusmanalasan@gmail.com 179
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+femifalola2001@gmail.com 180
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+elsconsulting@yahoo.com 181
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+xugolubo@lyft.live 182
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+getok10978@maazios.com 183
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+vudylavy@lyricspad.net 184
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+elochukwuokeke@gmail.com 185
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+alhibrak@gmail.com 186
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+idrissaad010@gmail.com 187
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ookpon@gmail.com 188
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+umarbiliyamin@gmail.com 189
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+uododo@gmail.com 190
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+austin.igbe@rea.gov.ng 191
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ibimaureen@yahoo.com 192
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+okechukwu.muodilim@9mobile.com.ng 193
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+osayanlade@oauife.edu.ng 194
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+dtony4real@yahoo.com 195
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+pokwori@gmail.com 196
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+georgeugochukwu92@gmail.com 197
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+yarabba18@gmail.com 198
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+imamsabit_r@ieee.org 199
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+rwolubeko@yahoo.com 200
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mosesphilip16@gmail.com 201
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+Umobong@gmail.com 202
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+oluwakayodealatise@gmail.com 203
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mikedeengineer@gmail.com 204
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+irueghematthew4real@gmail.com 205
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ralphvinmbah@yahoo.com 206
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ralphvinmbah@gmail.com 207
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+fomostino@yahoo.co.uk 208
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+hetob54129@akoption.com 209
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+jigesa5686@akoption.com 210
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+jerit95544@devswp.com 211
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+alexnduufere@gmail.com 212
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+olumidesogo@gmail.com 213
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+emmanuelnyong@gmail.com 214
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+tokharedia@gmail.com 215
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+paullordz@gmail.com 216
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+xosew25685@semonir.com 217
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+aliobadiah3@gmail.com 218
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sadi@jigpoly.edu.ng 219
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+drtundeafolabi@gmail.com 220
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+anjorinoluwatamilore@gmail.com 221
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+effiomVictor4real@gmail.com 222
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+aliyufaruku66@gmail.com 223
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+essienuduak33@gmail.com 224
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+michadey1@gmail.com 225
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+israelmusa9@gmail.com 226
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+imopressboard@gmail.com 227
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+famsiddoo@gmail.com 228
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+kbtamawa@yahoo.co.uk 229
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+newmanomigie@gmail.com 230
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+agfcomputers@gmail.com 231
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+justinadoga@gmail.com 232
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ayoasp@yahoo.com 233
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+musahamisumusa@gmail.com 234
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+oladayoojo3@gmail.com 235
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+Umartubo@gmail.com 236
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+RALPHOW@YAHOO.COM 237
+{"errors":[{"message":"duplicate key value violates unique constraint \"accounts_user_username_key\"\nDETAIL:  Key (username)=(RALPHOW@yahoo.com) already exists.\n","locations":[{"line":3,"column":11}],"path":["migrateData"]}],"data":{"migrateData":null}}
+
+
+alfuad84@gmail.com 238
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+kokobassey@yahoo.co.uk 239
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+uweshietaug@hotmail.com 240
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+k.bassey@shell.com 241
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ismailfakai34@gmail.com 242
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+Maryambintaliyu@gmail.com 243
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sundayadoga15@gmail.com 244
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+engrmusty007@yahoo.com 245
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+bashirisiaka48@gmail.com 246
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+armstrongnzotta8@gmail.com 247
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+kingsleyeke30@gmail.com 248
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+nnaemekanzenwata10@gmail.com 249
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+siakah@yahoo.com 250
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+abelchristian345@gmail.com 251
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+Quelamakiri@gmail.com 252
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+abdulwaya37@gmail.com 253
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sultanowolawi972@gmail.com 254
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+gideonansa695@gmail.com 255
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mowlah2k4@gmail.com 256
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+godsentj090@gmail.com 257
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sambozakir@gmail.com 258
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+Uche.amechi@shell.com 259
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+sammylek46@yahoo.com 260
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+bayo.obashe@gmail.com 261
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+ichematic@yahoo.com 262
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+smatnemo25@gmail.com 263
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
+
+mualiyuoox@gmail.com 264
+{"data":{"migrateData":{"success":true,"errors":null}}}
+
